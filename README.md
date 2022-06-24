@@ -1,4 +1,4 @@
-# vue-app-with-cli
+# pinia-state-management-count-app
 
 ## Project setup
 ```
